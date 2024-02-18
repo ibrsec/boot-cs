@@ -14,7 +14,16 @@ a.nav-link:hover{
     color: var(--hover-color) !important;
 }
 
-.nav-bar{
+
+
+.navbar{
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+
+.nav-bar-nav{
     font-size: 1.3rem;
     text-transform: capitalize;
     font-weight: bold;
@@ -47,4 +56,24 @@ a.nav-link:hover{
     left: 50%;
     transform: translate(-50%,-50%) rotate(40deg);
 z-index: 1;
+}
+
+
+.carousel-indicators{
+    
+}
+
+.carousel-indicators button{
+    background-color: var(--primary-color) !important;
+    padding: .1rem !important;
+    width: 3rem !important;
+
+}
+
+.carousel-item{
+    height: 100vh;
+}
+.carousel-item img{
+    height: 100%;
+    object-fit:cover;
 }
