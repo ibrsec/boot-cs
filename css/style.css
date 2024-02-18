@@ -77,3 +77,9 @@ z-index: 1;
     height: 100%;
     object-fit:cover;
 }
+
+
+section#about{
+    background-color: var(--primary-color);
+    height: 100vh;
+}
