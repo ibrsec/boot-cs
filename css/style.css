@@ -50,11 +50,11 @@ a.nav-link:hover{
     z-index: 2;
 }
 .black{
-    width: 350px;
-    height: 400px;
+    width: 450px;
+    height: 420px;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%) rotate(40deg);
+    transform: translate(-50%,-50%) rotate(43deg);
 z-index: 1;
 }
 
@@ -81,13 +81,21 @@ z-index: 1;
 
 section#about{
     background-color: var(--primary-color);
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 .img-container{
     position:relative
 
 }
+
+.img-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
 .about-img-info{
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.542), rgba(169, 64, 15, 0.956));
     position:absolute;
@@ -95,4 +103,8 @@ section#about{
     bottom: 0;
     left: 0;
     right: 0;
+}
+
+.txt-justify{
+    text-align: justify;
 }
