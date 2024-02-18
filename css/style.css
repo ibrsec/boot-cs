@@ -1,3 +1,35 @@
 :root{
-    --primary-color:
+    --primary-color:#bc6c25;
+    --secondary-color:#4d2822;
+    --hover-color:#e76f51;
+}
+
+*{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+a.nav-link{
+    color: white !important;
+}
+a.nav-link:hover{
+    color: var(--hover-color) !important;
+}
+
+.nav-bar{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}
+
+.navbar .container{
+    background-color: #00000066 !important;
+}
+
+
+.carousel-caption{
+    bottom: 40%;
+}
+
+.carousel-caption .btn{
+ background-color: var(--primary-color);border: none;
 }
