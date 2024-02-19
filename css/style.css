@@ -140,6 +140,9 @@ section#people .card img:hover {
 section#menu {
   background-color: var(--secondary-color) !important;
 }
+.menu-header{
+    color: var(--secondary-color) !important;
+}
 
 section#menu .container{
     background-color: var(--primary-color) !important;
