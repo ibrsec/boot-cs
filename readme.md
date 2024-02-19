@@ -4,22 +4,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrsec/tea-cup/">
-    <img src="./img/cup.png" alt="Logo" width="200" >
+  <a href="https://github.com/ibrsec/cafe-coffee/">
+    <img src="./img/logo.png" alt="Logo" width="200" >
   </a>
 
-  <h3 align="center">Tea Cup</h3>
+  <h3 align="center">Cafe Coffee</h3>
 
   <p align="center">
-    An awesome tea cup
-    <a href="https://github.com/ibrsec/tea-cup"><strong>Explore the docs »</strong></a>
+    An awesome Bootstrap Cafe Coffee Project
+    <a href="https://github.com/ibrsec/cafe-coffee"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/tea-cup/">View Demo</a>
+    <a href="https://ibrsec.github.io/cafe-coffee/">View Demo</a>
     ·
-    <a href="https://github.com/ibrsec/tea-cup/issues">Report Bug</a>
+    <a href="https://github.com/ibrsec/cafe-coffee/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ibrsec/tea-cup/issues">Request Feature</a>
+    <a href="https://github.com/ibrsec/cafe-coffee/issues">Request Feature</a>
   </p>
 </div>
 
@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-     <li><a href="#figma">Figma</a></li>
+     <!-- <li><a href="#figma">Figma</a></li> -->
      <li><a href="#project-skeleton">Project Skeleton</a></li>
      <li><a href="#built-with">Built With</a></li>
     <!-- <li>
@@ -55,19 +55,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![tea-cup](./img/p.gif)](https://ibrsec.github.io/tea-cup/)
+[![cafe-coffee](./img/project.png)](https://ibrsec.github.io/cafe-coffee/)
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
+<!-- ---
 
 ## Figma 
 
-<a href="https://www.figma.com/file/e4NZo3a1JnRLeMFsMLuvBF/tea-cup?type=design&node-id=0%3A1&mode=design&t=jElRLDivXVngT5Dt-1">Figma Link</a>
+<a href="https://www.figma.com/file/e4NZo3a1JnRLeMFsMLuvBF/tea-cup?type=design&node-id=0%3A1&mode=design&t=jElRLDivXVngT5Dt-1">Figma Link</a> -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 ---
@@ -95,6 +95,8 @@ Google-Learning (folder)
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=red"> 
  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  -->
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+ 
 
 
 
