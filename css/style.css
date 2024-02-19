@@ -75,6 +75,19 @@ a.nav-link:hover {
   object-fit: cover;
 }
 
+.btn-container button {
+    transition: .5s;
+}
+
+.btn-container button:nth-of-type(1):hover{
+background-color: #000 !important;
+}
+
+.btn-container button:nth-of-type(2):hover{
+    background-color: var(--secondary-color) !important;
+    }
+
+
 section#about {
   background-color: var(--primary-color);
   /* height: 100vh; */
@@ -141,7 +154,7 @@ section#menu {
   background-color: var(--secondary-color) !important;
 }
 .menu-header{
-    color: var(--secondary-color) !important;
+    color: var(--primary-color) !important;
 }
 
 section#menu .container{
@@ -150,4 +163,57 @@ section#menu .container{
 section#menu button {
   background-color: var(--secondary-color);
   margin-left: 1rem;
+}
+
+
+section#contact{
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.542),
+        rgba(169, 64, 15, 0.956)
+      ),url(/img/slider7.webp);
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: cover;
+}
+.contact-header{
+    color: var(--primary-color) !important;
+    
+}
+
+
+section#contact input,
+section#contact textarea{
+    background-color: inherit;
+}
+section#contact input:focus,
+section#contact textarea:focus{
+    background-color: var(--primary-color);
+}
+
+input::placeholder{
+    color: white !important;
+}
+label{
+    color: white;
+    font-style: italic;
+}
+textarea{
+    resize: none;
+}
+section#contact button{
+    background-color: var(--primary-color);
+    border: none;
+
+}
+
+
+.google-map{
+    filter: grayscale(1);
+}
+
+
+footer{
+    background-color: var(--primary-color);
+
 }
