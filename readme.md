@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/cafe-coffee"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/cafe-coffee/">View Demo</a>
+    <a href="https://cafe-coffee.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/cafe-coffee/issues">Report Bug</a>
     ·
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![cafe-coffee](./img/project.png)](https://ibrsec.github.io/cafe-coffee/)
+[![cafe-coffee](./img/project.png)](https://cafe-coffee.vercel.app/)
 
 
 
